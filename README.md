@@ -1,4 +1,3 @@
-# OSSP_Individual_Biruh-Bizualem-Gashaw_BDU1701727_B
 
 ## Overview
 This repository contains my individual assignment for Operating System and System Programming.
